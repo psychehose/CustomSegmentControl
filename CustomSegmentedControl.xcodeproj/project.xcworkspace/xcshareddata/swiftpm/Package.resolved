@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FlexLayout",
+        "repositoryURL": "https://github.com/layoutBox/FlexLayout",
+        "state": {
+          "branch": "master",
+          "revision": "2440c5ae80cadf43acf624e1e51614a1d1ea0360",
+          "version": null
+        }
+      },
+      {
+        "package": "Inject",
+        "repositoryURL": "https://github.com/krzysztofzablocki/Inject.git",
+        "state": {
+          "branch": null,
+          "revision": "0844cfbd6af3d30314adb49c8edf22168d254467",
+          "version": null
+        }
+      },
+      {
+        "package": "PinLayout",
+        "repositoryURL": "https://github.com/layoutBox/PinLayout",
+        "state": {
+          "branch": "master",
+          "revision": "2f1b1911e5dfeb70c17dc418f5558b05d42b728e",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
