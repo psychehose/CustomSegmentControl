@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F9919A9286550ED00F5B311 /* CustomSegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9919A8286550ED00F5B311 /* CustomSegmentedControl.swift */; };
+		3F9919AB2865512300F5B311 /* UISegmentedControl+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9919AA2865512300F5B311 /* UISegmentedControl+.swift */; };
+		3F9919AD2865515700F5B311 /* UIImage+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9919AC2865515700F5B311 /* UIImage+.swift */; };
 		77A224082864842600F6B361 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77A224072864842600F6B361 /* AppDelegate.swift */; };
 		77A2240A2864842600F6B361 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77A224092864842600F6B361 /* SceneDelegate.swift */; };
 		77A2240C2864842600F6B361 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77A2240B2864842600F6B361 /* ViewController.swift */; };
@@ -20,6 +23,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F9919A8286550ED00F5B311 /* CustomSegmentedControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSegmentedControl.swift; sourceTree = "<group>"; };
+		3F9919AA2865512300F5B311 /* UISegmentedControl+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UISegmentedControl+.swift"; sourceTree = "<group>"; };
+		3F9919AC2865515700F5B311 /* UIImage+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+.swift"; sourceTree = "<group>"; };
 		77A224042864842600F6B361 /* CustomSegmentedControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomSegmentedControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		77A224072864842600F6B361 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		77A224092864842600F6B361 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +78,9 @@
 				77A224102864842700F6B361 /* Assets.xcassets */,
 				77A224122864842700F6B361 /* LaunchScreen.storyboard */,
 				77A224152864842700F6B361 /* Info.plist */,
+				3F9919A8286550ED00F5B311 /* CustomSegmentedControl.swift */,
+				3F9919AA2865512300F5B311 /* UISegmentedControl+.swift */,
+				3F9919AC2865515700F5B311 /* UIImage+.swift */,
 			);
 			path = CustomSegmentedControl;
 			sourceTree = "<group>";
@@ -159,8 +168,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				77A2240C2864842600F6B361 /* ViewController.swift in Sources */,
+				3F9919AB2865512300F5B311 /* UISegmentedControl+.swift in Sources */,
 				77A224082864842600F6B361 /* AppDelegate.swift in Sources */,
+				3F9919AD2865515700F5B311 /* UIImage+.swift in Sources */,
 				77A2240A2864842600F6B361 /* SceneDelegate.swift in Sources */,
+				3F9919A9286550ED00F5B311 /* CustomSegmentedControl.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
